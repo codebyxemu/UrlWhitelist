@@ -96,3 +96,5 @@ namemc.com
 englandismy.city
 guides.ultracustomizer.com
 fabiandingemans.nl
+discord.gift
+xemu.codes  
